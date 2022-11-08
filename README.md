@@ -1,8 +1,10 @@
+# 20221108更新
+
+模型和API均不再提供，大家可以使用我整理的数据集：[点击这里](https://github.com/w4123/GenshinVoice)
+
 # VITS 原神语音合成V2
 
 本repo包含了我用于训练原神VITS模型对源代码做出的修改，以及新的config文件。
-
-预训练模型： http://obs.baimianxiao.cn/share/obs/sankagenkeshi/G_809000.pth
 
 请注意，下方的API均已经停止运行。
 
